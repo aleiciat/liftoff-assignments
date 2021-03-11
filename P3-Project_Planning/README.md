@@ -14,6 +14,10 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
+https://trello.com/b/c1auTXJr/waste-not-want-not
+
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+
+https://github.com/aleiciat/WasteNotWantNot
