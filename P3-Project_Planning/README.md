@@ -20,4 +20,4 @@ https://trello.com/b/c1auTXJr/waste-not-want-not
 
 Include a link to your project on GitHub.
 
-https://github.com/aleiciat/WasteNotWantNot
+https://github.com/celestialrae/WasteNotWantNot
